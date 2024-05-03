@@ -17,7 +17,7 @@ static bool custom_title = false;
 // scale
 static uint32_t buffer_scale = 1;
 // font
-static char *fontstr = "JetBrainsMonoNerd:size=16";
+static char *fontstr = "Terminus:size=10";
 // tag names
 static char *tags_names[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
 
